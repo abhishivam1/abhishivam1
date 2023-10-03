@@ -35,9 +35,6 @@
 </p>
 <p align="center"> <img src="/assets/morty.gif" /> </p>
 
-[![anand-harsh's GitHub | Stats](https://stats.quine.sh/abhishivam1/github?theme=dark)](https://quine.sh)
-
-[![anand-harsh's GitHub | Languages Over Time](https://stats.quine.sh/abhishivam1/languages-over-time?theme=dark)](https://quine.sh)
 
 ![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishivam1&theme=tokyonight&show_icons=true)
 

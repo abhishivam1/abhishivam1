@@ -35,8 +35,7 @@
 </p>
 <p align="center"> <img src="/assets/morty.gif" /> </p>
 
-
-![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishivam1&theme=tokyonight&show_icons=true)
+[![anand-harsh's GitHub | Stats](https://stats.quine.sh/abhishivam1/github?theme=dark)](https://quine.sh)
 
 ![Harsh's Streak](https://github-readme-streak-stats.herokuapp.com?user=abhishivam1&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5)
 

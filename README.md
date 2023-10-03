@@ -38,6 +38,5 @@
 
 ![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishivam1&theme=tokyonight&show_icons=true)
 
-[![Abhishek's GitHub | Stats](https://stats.quine.sh/abhishivam1/github?theme=dark)](https://quine.sh)
 
 

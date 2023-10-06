@@ -1,41 +1,22 @@
-<h3 align="center">
-  Welcome to my profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+<h1 align="center">Hi 👋, I'm Abhishek Mishra</h1>
+<h3 align="center">Web/App Developer || App Modder</h3>
 
-- 👋 Hi, I’m Abhishek
-- 👀 I’m interested in Designing Websites
-- 💞️ I’m looking to collaborate on Webpage Designing && App Development
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishivam1&label=Profile%20views&color=0e75b6&style=flat" alt="abhishivam1" /> </p>
 
-# What I know ??!!!
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishivam1" alt="abhishivam1" /></a> </p>
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)-
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)-
+- 💬 Ask me about **App Modding**
+
+- 📫 How to reach me **iamabhimishra115@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/abhi__shivam)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhimishra1)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://mobile.twitter.com/abhishivam11)
-
-<p align="center"> 
-  <a href="https://github.com/abhishivam1?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/abhishivam1?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/abhishivam1?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/abhishivam1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+<p align="left">
+<a href="https://twitter.com/abhishivam11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhishivam11" height="30" width="40" /></a>
+<a href="https://instagram.com/abhi__shivam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhi__shivam" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/newbiekingdom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="newbiekingdom" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-![](https://komarev.com/ghpvc/?username=abhishivam1)
-![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
-<h2 align="center">🏆 Trophies</h2>
-<p align="center"> <img width=800 src="https://github-profile-trophy.vercel.app/?username=abhishivam1&margin-w=30&theme=onedark&row=1"/>
-</p>
-<p align="center"> <img src="/assets/morty.gif" /> </p>
-
-
-![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishivam1&theme=tokyonight&show_icons=true)
-
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishivam1&show_icons=true&locale=en" alt="abhishivam1" /></p>

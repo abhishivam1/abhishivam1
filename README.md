@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Mishra</h1>
-<h3 align="center">Web/App Developer || App Modder</h3>
+<h3 align="center">Web and App Developer || App Modder</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishivam1&label=Profile%20views&color=0e75b6&style=flat" alt="abhishivam1" /> </p>
 

@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishivam1&label=Profile%20views&color=0e75b6&style=flat" alt="abhishivam1" /> </p>
 
 
-[![trophy]([(https://github-profile-trophy.vercel.app/?username=abhishivam1-ma&no-bg=true)](https://github-profile-trophy.vercel.app/?username=abhishivam1-ma&no-bg=true
+[![trophy]([(https://github-profile-trophy.vercel.app/?username=abhishivam1&no-bg=true)](https://github-profile-trophy.vercel.app/?username=abhishivam1&no-bg=true
 ))]
 
 - 💬 Ask me about **App Modding**

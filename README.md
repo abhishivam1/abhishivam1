@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishivam1&label=Profile%20views&color=0e75b6&style=flat" alt="abhishivam1" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=abhishivam1&theme=onedark)](https://github.com/abhishivam1/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=abhishivam1&theme=darkhub)](https://github.com/abhishivam1/github-profile-trophy)
 
 - 💬 Ask me about **App Modding**
 

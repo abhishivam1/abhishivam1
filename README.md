@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishivam1&label=Profile%20views&color=0e75b6&style=flat" alt="abhishivam1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishivam1" alt="abhishivam1" /></a> </p>
+
+[<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishivam1" alt="abhishivam1" /></a> </p>](https://github-profile-trophy.vercel.app/?username=abhishivam1-ma&no-bg=true)
 
 - 💬 Ask me about **App Modding**
 

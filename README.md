@@ -21,11 +21,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishivam1&show_icons=true&locale=en" alt="abhishivam1" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishivam1&show_icons=true&locale=en&layout=compact" alt="abhishivam1" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishivam1&show_icons=true&locale=en" alt="abhishivam1" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishivam1&" alt="abhishivam1" /></p>
 
 [![An image of @abhishivam1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhishivam1)](https://holopin.io/@abhishivam1)
 
